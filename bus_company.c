@@ -25,6 +25,7 @@ int main(){
        loggedIn= login();
    }
 
+    
    /*start the app */
     while(on == 1){
         printf("....................................OPTIONS................................ \n");
