@@ -111,7 +111,7 @@ int main(){
             }
 
             
-        }
+        }  
         else if(option == 3){
             int payment;
             int receipt_number;
