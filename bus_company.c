@@ -9,7 +9,7 @@ int main(){
     int on = 1;
     int option;
     struct booking
-    {
+    { 
         char type[10];
         int number_of_seats;
         int total_cost;
