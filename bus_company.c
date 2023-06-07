@@ -49,7 +49,7 @@ int main(){
         else if(option == 4){
             printf("Please choose again \n");
             continue;
-        }
+        } 
         else if(option == 2){
             printf("picked choice 2. \n");
 
