@@ -35,7 +35,7 @@ int main(){
         printf("4. Bus booking reports\n");
         printf("5.Sign out\n");
 
-        printf("-------------------------------------------------------------------------\n");
+        printf("-------------------------------------------------------------------------\n"); 
         printf("pick from above: ");
 
         scanf("%d",&option);
