@@ -20,7 +20,7 @@ int main(){
    struct booking bookings[100];
 
    /*Login*/
-
+   
    while(loggedIn == 0){
        loggedIn= login();
    }
