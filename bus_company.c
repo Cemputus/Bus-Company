@@ -44,7 +44,7 @@ int main(){
         if(option == 1){
             printf("Please choose again \n");
             continue;
-
+ 
         }
         else if(option == 4){
             printf("Please choose again \n");
