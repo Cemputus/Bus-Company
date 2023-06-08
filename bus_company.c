@@ -15,7 +15,7 @@ int main(){
         int total_cost;
         int reciept_number;
         int payment;
-    };
+    }; 
  
    struct booking bookings[100];
 
