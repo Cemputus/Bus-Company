@@ -16,7 +16,7 @@ int main(){
         int reciept_number;
         int payment;
     };
-
+ 
    struct booking bookings[100];
 
    /*Login*/
