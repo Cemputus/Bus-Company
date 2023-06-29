@@ -14,7 +14,7 @@ int main(){
         char type[10];
         int number_of_seats;
         int total_cost; 
-        int reciept_number;
+        int reciept_number; 
         int payment;
     }; 
  
