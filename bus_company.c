@@ -8,7 +8,7 @@ int main(){
     int i = 0;    
     int loggedIn = 0;
     int on = 1; 
-    int option;   
+    int option;    
     struct booking  
     {    
         char type[10];
