@@ -9,7 +9,7 @@ int main(){
     int loggedIn = 0;
     int on = 1;  
     int option;    
-    struct booking  
+    struct booking   
     {    
         char type[10];
         int number_of_seats;
